@@ -1,8 +1,8 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: Open Data Literacy.
-description: "An IMLS funded research project @ the UW iSchool"
+title: SOLID.
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: "http://yourdomain.com"
@@ -13,7 +13,7 @@ permalink: /:categories/:title
 excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
 
 colors:  #in hex code if not noted else
-  primary: "#384452" #"#F70031"
+  primary: "#00b3fe" #"#F70031"
   primary_rgb: "0,179,254" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
   secondary: "#384452" #"#33004D"
   link: "#428bca"
@@ -42,7 +42,8 @@ social:
     url:
   - title: instagram
     url:
- 
+  - title: tumblr
+    url:
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
