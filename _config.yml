@@ -34,25 +34,20 @@ collections:
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: dribbble
-    url:
-  - title: facebook
-    url:
   - title: twitter
     url:
-  - title: instagram
-    url:
-  - title: tumblr
-    url:
+  - title: medium
+    url: https://medium.com/open-data-literacy
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines:
-    - Some Ave, 987,
-    - 23890, New York,
+    - The Information School @ UW
+    - 1851 NE Grant Ln
+    - Seattle, WA 98105
     - United States.
 email: hello@solidtheme.com
-tel: +34 8493-4893
+tel: +01 206 685-9937
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
@@ -98,8 +93,8 @@ members:
 
 # Clients information. Shown on Home and About pages.
 clients:
-  - name: dribbble
-    img: client01.png
+  - name: TASCHA
+    img: tascha.png
   - name: Code is Poetry
     img: client02.png
   - name: Vimeo
@@ -108,7 +103,7 @@ clients:
     img: client04.png
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+about: "A research project focused on improving the accessibility of open data."
 
 # Testimonial content. Shown on Home and About page.
 testimonial:
