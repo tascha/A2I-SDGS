@@ -103,8 +103,7 @@ clients:
     img: client04.png
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "A research project focused on improving the accessibility of open data."
-
+about: "Open Data Literacy is a collaborative project led by the Information School at the University of Washington in partnership with public institutions that create, manage, and publish open data."
 # Testimonial content. Shown on Home and About page.
 testimonial:
     message: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
