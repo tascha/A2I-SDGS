@@ -1,0 +1,18 @@
+---
+layout: project
+title:  "WA State Public Meetings System"
+date:   2017-06-01 12:00:00
+author: Jiayi Wang, Tin-Chia Lin, Yun Hsiao
+categories:
+- project
+img: WACalendarThumb.png
+thumb: WACalendarThumb.png
+carousel:
+- single01.jpg
+- single02.jpg
+- single03.jpg
+tagged: database administration & development, mobile or web development, ux & interaction design
+client: Washington State Government, OCIO
+website: https://github.com/jiayi827/WACalendar
+---
+Set a data standard for all the public meetings digital records in Washington State. Create a cloud dataset based on this data standard and fill up the dataset with test data scraped from the city and county council websites. Build a website to visualize the database at its backend. Users will be able to perform queries about public meetings via the website.
