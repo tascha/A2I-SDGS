@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  "Context for Communities: Seattle and Metadata Standards for Civic Data"
-date:   Summer 2017
+date:   2017-06-01 12:00:00
 author: Nina Showell
 categories:
 - project
