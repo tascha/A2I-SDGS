@@ -5,7 +5,7 @@ date:   Summer 2017
 author: Nina Showell
 categories:
 - project
-img: City-of-Seattle-Logo_Color-on-Transparent.png
+img: CityofSeattle.png
 thumb: CityofSeattle.png
 carousel:
 - .png
