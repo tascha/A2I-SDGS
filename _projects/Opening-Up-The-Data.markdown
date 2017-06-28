@@ -8,9 +8,7 @@ categories:
 img: OpeningUptheDataThumb.png
 thumb: OpeningUptheDataThumb.png
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
+- OpeningUptheDataPoster.jpg
 tagged: data curation, data science & visualization, mobile or web development
 client: Puget Sound Partnership
 website: https://ejclarke.shinyapps.io/tek-capstone/
