@@ -8,9 +8,7 @@ categories:
 img: Waste2ResourcesThumb.png
 thumb: Waste2ResourcesThumb.png
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
+- Waste2Resources.png
 tagged: data science & visualization, information literacy, mobile or web development
 client: Department of Ecology, State of Washington
 website: https://ischool.uw.edu/capstone/projects/2017/waste-2-resources-open-data-literacy-project
