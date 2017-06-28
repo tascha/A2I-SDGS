@@ -8,7 +8,7 @@ categories:
 img: CityofSeattle.png
 thumb: CityofSeattle.png
 carousel:
-- single01.jpg
+- CfCWordCloud.png
 tagged: civic metadata, data curation, open data
 client: City of Seattle
 website: https://github.com/OpenDataLiteracy/CityOfSeattle-2017
