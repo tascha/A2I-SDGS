@@ -8,9 +8,7 @@ categories:
 img: WACalendarThumb.png
 thumb: WACalendarThumb.png
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
+- WACalendarPoster.png
 tagged: database administration & development, mobile or web development, ux & interaction design
 client: Washington State Government, OCIO
 website: https://github.com/jiayi827/WACalendar
