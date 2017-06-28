@@ -101,6 +101,8 @@ clients:
     img: SPL.png
   - name: WA Office of the Chief Information Officer
     img: OCIOthumb.png
+  - name: Washington State Department of Transportation
+    img: WSDOTthumb.png
 
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
