@@ -8,9 +8,7 @@ categories:
 img: TroutThumb.png
 thumb: TroutThumb.png
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
+- TroutPoster.png
 tagged: data science & visualization, information literacy, ux & interaction design
 client: Washington Department of Fish and Wildlife
 website: https://ischool.uw.edu/capstone/projects/2017/total-resource-observation-utility-team-trout
