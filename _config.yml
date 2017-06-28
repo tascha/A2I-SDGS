@@ -95,12 +95,9 @@ members:
 clients:
   - name: TASCHA
     img: tascha.png
-  - name: Code is Poetry
-    img: client02.png
-  - name: Vimeo
-    img: client03.png
-  - name: VimeoPro
-    img: client04.png
+  - name: City of Seattle
+    img: CityofSeattle.png
+
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "Open Data Literacy is a collaborative project led by the Information School at the University of Washington in partnership with public institutions that create, manage, and publish open data."
