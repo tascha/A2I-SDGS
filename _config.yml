@@ -95,7 +95,7 @@ members:
 clients:
 - - name: Washington State Department of Transportation
 -   img: wsdot-logo.png
--  - name: City of Seattle
+  - name: City of Seattle
     img: CityofSeattle.png
   - name: Seattle Public Library
     img: SPL-logo.png
