@@ -98,7 +98,7 @@ clients:
   - name: City of Seattle
     img: CityofSeattle.png
   - name: Seattle Public Library
-    img: SPL-logo.png
+    img: SPL-Logo.png
   - name: WA Office of the Chief Information Officer
     img: OCIOthumb.png
 
