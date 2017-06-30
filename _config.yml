@@ -61,8 +61,6 @@ members:
     social:
       - title: envelope #use for email address
         url: mailto:clpalmer@uw.edu
-      - title: twitter
-        url: 
   - name: Nic Weber
     position: Principal Investigator
     text: Nic Weber is an assistant professor at the University of Washington Information School.
