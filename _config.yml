@@ -46,32 +46,32 @@ address:
     - 1851 NE Grant Ln
     - Seattle, WA 98105
     - United States.
-email: hello@solidtheme.com
-tel: +01 206 685-9937
+email: odluw@uw.edu
+tel: 
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
 
 # Members information. Shown on About page.
 members:
-  - name: Mark Webber
-    position: CEO
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+  - name: Carole Palmer
+    position: Principal Investigator
+    text: Carole Palmer is a Professor and Associate Dean for Research at the iSchool and works in the areas of data curation and digital research collections. Her research is aimed at advancing data services, especially for interdisciplinary inquiry. In this era of “big data,” she is particularly interested in optimizing the reuse value of small data and access to open data across disciplines. Her current projects include developing a framework for Site Based Data Curation and a model program for Data Curation Education in Research Centers. As an educator, she has been a leader in professional workforce development in data curation for nearly a decade, recognized in 2013 with the Information Science Teacher of the Year Award from the Association for Information Science & Technology.​
     img: team01.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:name@domain.com
+        url: mailto:clpalmer@uw.edu
       - title: twitter
-        url: http://twitter.com/handle
-  - name: Paul Jameson
-    position: Lead Designer
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+        url: 
+  - name: Nic Weber
+    position: Principal Investigator
+    text: Nic Weber is an assistant professor at the University of Washington Information School.
     img: team02.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:name@domain.com
+        url: mailto:nmweber@uw.edu
       - title: twitter
-        url: http://twitter.com/handle
+        url: 
   - name: Laura Sommers
     position: Lead Developer
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
@@ -93,8 +93,8 @@ members:
 
 # Clients information. Shown on Home and About pages.
 partners:
-- - name: Washington State Department of Transportation
--   img: wsdot-logo.png
+  - name: Washington State Department of Transportation
+    img: wsdot-logo.png
   - name: City of Seattle
     img: CityofSeattle.png
   - name: Seattle Public Library
