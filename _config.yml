@@ -93,8 +93,8 @@ members:
 
 # Clients information. Shown on Home and About pages.
 partners:
-  - name: Washington State Department of Transportation
-    img: wsdot-logo.png
+- - name: Washington State Department of Transportation
+-   img: wsdot-logo.png
   - name: City of Seattle
     img: CityofSeattle.png
   - name: Seattle Public Library
