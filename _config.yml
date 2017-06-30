@@ -68,8 +68,6 @@ members:
     social:
       - title: envelope #use for email address
         url: mailto:nmweber@uw.edu
-      - title: twitter
-        url: 
   - name: An Yan
     position: Ph.D. Student
     text: An is currently a Ph.D. student in Information Science at the University of Washington. Her research interest revolves around data curation, Cyberinfrastructure, and reproducible research. She received her B.E. in Remote Sensing in Wuhan University, China, and received her M.S. in Ecology in Center for Earth System Science, Tsinghua University, China.
@@ -77,8 +75,6 @@ members:
     social:
       - title: envelope #use for email address
         url: mailto:yanan15@uw.edu
-      - title: twitter
-        url: 
 
 
 # Clients information. Shown on Home and About pages.
