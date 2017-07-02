@@ -8,7 +8,7 @@ categories:
 img: ocio-logo.png
 thumb: ocio-logo.png
 carousel:
-- .png
+- ocio-geospatial.png
 tagged: open data, technology, geospatial
 client: Washington State Office of the Chief Information Officer
 website: https://github.com/OpenDataLiteracy/OCIO-2017
