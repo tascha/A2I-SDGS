@@ -35,7 +35,7 @@ collections:
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
   - title: twitter
-    url:
+    url: https://twitter.com/ODLiteracy
   - title: medium
     url: https://medium.com/open-data-literacy
 
@@ -56,25 +56,31 @@ tel:
 members:
   - name: Carole Palmer
     position: Principal Investigator
-    text: Carole Palmer is a Professor and Associate Dean for Research at the iSchool and works in the areas of data curation and digital research collections. Her research is aimed at advancing data services, especially for interdisciplinary inquiry. In this era of “big data,” she is particularly interested in optimizing the reuse value of small data and access to open data across disciplines. Her current projects include developing a framework for Site Based Data Curation and a model program for Data Curation Education in Research Centers. As an educator, she has been a leader in professional workforce development in data curation for nearly a decade, recognized in 2013 with the Information Science Teacher of the Year Award from the Association for Information Science & Technology.​
-    img: clpalmer.jpg
+    text: Carole Palmer is a Professor and Associate Dean for Research at the University of Washington iSchool.
     social:
       - title: envelope #use for email address
         url: mailto:clpalmer@uw.edu
   - name: Nic Weber
     position: Principal Investigator
-    text: Nic Weber is an assistant professor at the University of Washington Information School.
+    text: Nic Weber is an assistant professor at the University of Washington iSchool.
     img: nWeber.jpg
     social:
       - title: envelope #use for email address
         url: mailto:nmweber@uw.edu
   - name: An Yan
     position: Ph.D. Student
-    text: An is currently a Ph.D. student in Information Science at the University of Washington. Her research interest revolves around data curation, Cyberinfrastructure, and reproducible research. She received her B.E. in Remote Sensing in Wuhan University, China, and received her M.S. in Ecology in Center for Earth System Science, Tsinghua University, China.
+    text: An is currently a Ph.D. student in Information Science at the University of Washington. 
     img: anyan.jpg
     social:
       - title: envelope #use for email address
         url: mailto:yanan15@uw.edu
+  - name: Bree Norlander
+    position: Project & Communications Coordinator
+    text: Bree recently completed her M.L.I.S. at the University of Washington.
+    img: bnorlander.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:norlab@uw.edu
 
 
 # Clients information. Shown on Home and About pages.
