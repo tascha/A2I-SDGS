@@ -57,6 +57,7 @@ members:
   - name: Carole Palmer
     position: Principal Investigator
     text: Carole Palmer is a Professor and Associate Dean for Research at the University of Washington iSchool.
+    img: clpalmer.jpg
     social:
       - title: envelope #use for email address
         url: mailto:clpalmer@uw.edu
@@ -75,7 +76,7 @@ members:
       - title: envelope #use for email address
         url: mailto:yanan15@uw.edu
   - name: Bree Norlander
-    position: Project & Communications Coordinator
+    position: Project Coordinator
     text: Bree recently completed her M.L.I.S. at the University of Washington.
     img: bnorlander.jpg
     social:
