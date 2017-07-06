@@ -11,6 +11,6 @@ carousel:
 - SPLPic.jpg
 tagged: data literacy, civic data, open data
 client: Seattle Public Library
-website: https://github.com/OpenDataLiteracy/SPL-2017
+website: 
 ---
 Sarah is working with Seattle Public Library to develop an Open Data UnConference framework. The plan will include detailed event logistics, goals, learning objectives, lesson plans, and curriculum.
