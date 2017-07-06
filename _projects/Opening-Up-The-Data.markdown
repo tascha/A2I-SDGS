@@ -11,7 +11,7 @@ carousel:
 - OpeningUptheDataPoster.png
 tagged: data curation, data science & visualization, mobile or web development
 client: Puget Sound Partnership
-website: https://ejclarke.shinyapps.io/tek-capstone/
+website: https://ischool.uw.edu/capstone/projects/2017/opening-data-visualizing-effectiveness-puget-sound-restoration-efforts
 ---
 #### Opening Up the Data: Visualizing the effectiveness of Puget Sound restoration efforts
 
