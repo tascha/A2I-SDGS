@@ -42,8 +42,8 @@ social:
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines:
-    - The Information School @ UW
-    - 1851 NE Grant Ln
+    - The Information School
+    - University of Washington
     - Seattle, WA 98105
     - odluw@uw.edu
 email: odluw@uw.edu
