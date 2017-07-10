@@ -47,8 +47,10 @@ p {
 }
 
 p2 { 
-    	padding-right: 70px;
-    	padding-left: 70px;
+    	padding-right: 90px;
+    	padding-left: 90px;
+	margin-right: 70px;
+    	margin-left: 70px;
 	margin-bottom: 12px; 
 	font-family: 'Lato', sans-serif;
 	font-weight: 400;
