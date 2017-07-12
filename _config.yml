@@ -136,7 +136,7 @@ clients:
 
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Open Data Literacy is a collaborative project led by the Information School at the University of Washington in partnership with public institutions that create, manage, and publish open data."
+about: "Open Data Literacy is a collaborative project led by the Information School at the University of Washington in partnership with public institutions that create, manage, and publish open data. Open Data Literacy is funded by a generous grant from the Institute of Museum and Library Services."
 # Testimonial content. Shown on Home and About page.
 testimonial:
     message: "[Open Data Literacy] will advance data literacy by developing new curriculum for iSchool students and public librarians; coordinating internships, fieldwork, and action research projects between UW and public institutions with open data initiatives, and; producing community workshops and open education resources that are freely available to the general public."
