@@ -70,18 +70,54 @@ members:
         url: mailto:nmweber@uw.edu
   - name: An Yan
     position: Ph.D. Student
-    text: An is currently a Ph.D. student in Information Science at the University of Washington. 
+    text: An Yan is currently a Ph.D. student in Information Science at the University of Washington. 
     img: anyan.jpg
     social:
       - title: envelope #use for email address
         url: mailto:yanan15@uw.edu
   - name: Bree Norlander
     position: Project Coordinator
-    text: Bree recently completed her M.L.I.S. at the University of Washington.
+    text: Bree Norlander recently completed her M.L.I.S. at the University of Washington.
     img: bnorlander.jpg
     social:
       - title: envelope #use for email address
         url: mailto:norlab@uw.edu
+  - name: Chris Coward
+    position: 
+    text: Chris Coward is the Co-Founder, Principal Research Scientist, and Director of the Technology & Social Change Group (TASCHA) at the University of Washington Information School. 
+    img: ccoward.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:ccoward@uw.edu
+  - name: Mike Crandall
+    position: 
+    text: Mike Crandall is a Principal Research Scientist at the University of Washington’s Information School.
+    img: mikecran.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:mikecran@uw.edu
+  - name: Bill Howe
+    position: 
+    text: Bill Howe is an Associate Professor at the University of Washington Information School.
+    img: billhowe.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:billhowe@uw.edu
+  - name: Chris Rothschild
+    position: 
+    text: Chris is a Research Analyst with the Technology & Social Change Group (TASCHA) at the University of Washington Information School. 
+    img: chriskr.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:chriskr@uw.edu
+  - name: Jevin West
+    position: 
+    text: Jevin West is an Assistant Professor and Co-Director of the Datalab at the University of Washington Information School.
+    img: jevinw.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:jevinw@uw.edu
+
 
 
 # Clients information. Shown on Home and About pages.
