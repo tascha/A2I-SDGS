@@ -1642,6 +1642,12 @@ pre code {
 .col-xs-6 {
   width: 50%;
 }
+
+.row.fix {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .col-xs-5 {
   width: 41.66666667%;
 }
