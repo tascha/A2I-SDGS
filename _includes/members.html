@@ -2,7 +2,7 @@
     <div class="row centered">
         <h3 class="mb">MEET OUR TEAM</h3>
         
-        <div class="row">
+        <div class="row fix">
         {% for member in site.members %}
         <section class="col-lg-3 col-md-4 col-sm-6">
             <div class="he-wrap tpl6">
@@ -20,9 +20,6 @@
             <h5 class="ctitle">{{ member.position }}</h5>
             <p>{{ member.text }}</p>
             <div class="hline"></div>
-            <div class="clearfix visible-lg-block"></div>
-            <div class="clearfix visible-md-block"></div>
-            <div class="clearfix visible-sm-block"></div>
         </section><! --/col-lg-3 -->	 	
         {% endfor %}
         </div>
