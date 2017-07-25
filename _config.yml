@@ -4,7 +4,7 @@
 title: " "
 description: " "
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "" #important: start with /
+baseurl: "/site/" #important: start with /
 url: "https://opendataliteracy.github.io/site/"
 
 # Build settings
