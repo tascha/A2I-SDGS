@@ -4,8 +4,8 @@
 title: " "
 description: " "
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "/site" #important: start with /
-url: "https://odl.ischool.uw.edu/"
+baseurl: "/site/" #important: start with /
+url: "https://opendataliteracy.github.io/"
 
 # Build settings
 markdown: kramdown
