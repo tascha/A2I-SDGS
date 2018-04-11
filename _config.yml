@@ -5,7 +5,7 @@ title: " "
 description: " "
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
-url: "https://odl.ischool.uw.edu"
+url: "https://tascha.github.io/A2I-SDGS/"
 
 # Build settings
 markdown: kramdown
